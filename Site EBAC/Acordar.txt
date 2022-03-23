@@ -1,0 +1,20 @@
+Acordar
+
+1 - Abro os olhos
+2 - Levanto da cama
+3 - Vou até o banheiro
+4 - Pego a escova de dentes
+    1 - passo creme dental na escova
+    2 - escovo os dentes
+    3 - enxáguo a boca e lavo o rosto
+5 - troco de roupa caso esteja limpa
+    1 - visto a roupa
+    2 - coloco o tênis
+6 - Caso a roupa esteja suja
+    1 - Vou ao guarda roupas
+    2 - Abro a porta para a direita
+    3 - Pego a roupa limpa
+    4 - visto a roupa limpa
+    5 - coloco o tênis
+
+
